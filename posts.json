@@ -1,0 +1,11 @@
+[
+  {"title":"Beautiful Nature Scenery","category":"Nature","img":"https://source.unsplash.com/500x300/?nature,water","desc":"Explore the wonders of nature with breathtaking landscapes and serene views."},
+  {"title":"Tech Trends 2025","category":"Tech","img":"https://source.unsplash.com/500x300/?technology","desc":"Stay ahead with the latest in technology, AI, and software innovations."},
+  {"title":"Delicious Recipes","category":"Food","img":"https://source.unsplash.com/500x300/?food","desc":"Discover mouth-watering recipes to try at home and impress your friends."},
+  {"title":"Mountain Adventures","category":"Nature","img":"https://source.unsplash.com/500x300/?mountains","desc":"Join thrilling mountain adventures and reconnect with nature."},
+  {"title":"AI Revolution","category":"Tech","img":"https://source.unsplash.com/500x300/?ai","desc":"How artificial intelligence is transforming our world."},
+  {"title":"Healthy Eating Tips","category":"Food","img":"https://source.unsplash.com/500x300/?healthy-food","desc":"Simple tips for maintaining a balanced and healthy diet."},
+  {"title":"Forest Exploration","category":"Nature","img":"https://source.unsplash.com/500x300/?forest","desc":"Explore hidden forests and discover amazing wildlife."},
+  {"title":"Smart Home Gadgets","category":"Tech","img":"https://source.unsplash.com/500x300/?smart-home","desc":"Top smart home gadgets for convenience and security."},
+  {"title":"Baking Secrets","category":"Food","img":"https://source.unsplash.com/500x300/?baking","desc":"Learn the secrets behind perfect baking every time."}
+]

@@ -1,0 +1,19 @@
+.hero {
+  background: url('https://source.unsplash.com/1600x900/?blog,writing') center/cover no-repeat;
+}
+.blog-card:hover { transform: translateY(-8px); transition: 0.3s ease; box-shadow:0 8px 25px rgba(0,0,0,0.2);}
+.card-title { font-weight:600; color:#0d6efd;}
+#backToTop { display:none;}
+html { scroll-behavior: smooth; }
+
+/* Dark Mode */
+.dark-mode { background-color:#121212!important; color:#f1f1f1!important; }
+.dark-mode .navbar { background-color:#1c1c1c!important; }
+.dark-mode .bg-light { background-color:#1c1c1c!important; }
+.dark-mode .card { background-color:#1e1e1e; color:#f1f1f1; }
+.dark-mode .btn-outline-primary { color:#0d6efd; border-color:#0d6efd; }
+
+/* Animation */
+@keyframes fadeSlideUp {0%{opacity:0;transform:translateY(20px);}100%{opacity:1;transform:translateY(0);}}
+.blog-card-item { animation: fadeSlideUp 0.6s ease forwards; opacity:0; }
+.blog-card-item.show { opacity:1; }
